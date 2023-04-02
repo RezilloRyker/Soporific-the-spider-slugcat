@@ -1,3 +1,10 @@
+Install:
+Before installing this mod it is Required to also have slugbase:
+https://github.com/SlimeCubed/SlugBase
+1. Unzip the folders, go inside SpiderSlugCat and then copy the folder called "mod"
+2. paste that folder into your mods folder located around here: Rain World\RainWorld_Data\StreamingAssets\mods
+3. rename the mod folder to "SpiderSlugCat" and it should work just fine after you also install slugbase;
+
 # Soporific-the-spider-slugcat
 Soporific the Slugcat that can shoot darts that put other living things to sleep.
 You only eat meat as plants will not provide food for you. Your bite is powerful but risk waking them up.
