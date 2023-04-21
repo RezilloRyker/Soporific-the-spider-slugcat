@@ -22,5 +22,5 @@ Link
 https://steamcommunity.com/sharedfiles/filedetails/?id=2948971756
 
 
-Credits: Special thanks to, bro, Fish, LastCherry, o645, Jim, WillowWisp, and Vigaro!
+Credits: Special thanks to, bro, Fish, LastCherry, o645, Jim, Turk, WillowWisp, and Vigaro!
 Art done by Artistica.us
